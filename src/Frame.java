@@ -39,9 +39,11 @@ public class Frame {
 
     input.setBounds(50, 75, 100, 50);
     input.setFont(new Font(Font.SERIF, Font.PLAIN, 12));
-    input.setBackground(Color.orange);
+    input.setBackground(Color.blue);
     input.setBorder(border1);
 
+  /*Hello, I changed the first box color to blue!*/
+    
     dropDown.setBounds(187, 75, 150, 50);
     dropDown.setBackground(Color.green);
     dropDown.setBorder(border1);
